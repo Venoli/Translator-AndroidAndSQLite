@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="language_translator_apikey">EXSnOHTLhvrKeP3gijTz1jbft6UiMeSMFaaGF3OJnhMJ</string>
+    <string name="language_translator_url">https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/b3f5fd33-7efc-403f-95eb-01bda5eea2e2</string>
+    <string name="update">Update</string>
+    <string name="enter_a_phrase">Enter a Phrase</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="select_a_phrase">Select a Phrase</string>
+    <string name="text_speech_apikey">1FKutBZB7YkPEqU8rioF_hnp6Og3Nl8Ax_g4Gt3ESpwL</string>
+    <string name="text_speech_url">https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/fbfb4774-d777-4183-91b9-02d43c4e4c7c</string>
+    <string name="speech">Speech</string>
+    <string name="add_phrases">Add Phrases</string>
+    <string name="display_phrases">Display Phrases</string>
+    <string name="edit_phrases">Edit Phrases</string>
+    <string name="lang_subscription">Language Subscription</string>
+    <string name="translate">Translate</string>
+    <string name="translate_all">Translate All</string>
+</resources>
